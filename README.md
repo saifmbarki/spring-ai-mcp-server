@@ -25,7 +25,8 @@ This server can be used to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+
+git clone https://github.com/saifmbarki/spring-ai-mcp-server.git
 cd your-repo
 
 Run the server and visit this endpoint and see what it respond
