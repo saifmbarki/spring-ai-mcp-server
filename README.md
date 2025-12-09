@@ -16,7 +16,8 @@ This server can be used to:
 
 ### Prerequisites
 
-- Java 17+  
+- Java 17+
+- spring boot 3.5 or later
 - Maven or Gradle (for building)  
 - Node.js (for MCP Inspector or integration)  
 
